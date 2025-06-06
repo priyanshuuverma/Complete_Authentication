@@ -1,0 +1,4 @@
+Question #1: What is npm’s package.json?
+      package.json is a core file that allows you to configure your package. Usually, it is placed in the root of your project directory. It contains metadata about your package — name, version, dependencies to be installed, scripts, entrypoint). It allows npm to execute script, build and run your app and install dependecies. It can be generated with npm init command. It can be modified manually or using npm commands (eg. npm install, npm version).
+
+Question #2: What is npm’s package-lock.json?
